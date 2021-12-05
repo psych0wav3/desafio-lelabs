@@ -1,0 +1,9 @@
+node_modules/
+.expo
+__test__
+/ios/Pods/
+.vscode/
+npm-debug.log
+yarn-error.log
+.DS_Store
+build/
